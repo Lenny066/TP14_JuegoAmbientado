@@ -1,27 +1,15 @@
 fileFormatVersion: 2
-guid: a2fe1f41196127841a129a1c08fac9ff
+guid: c973088b2ada5b745bb0ce37ade0cc5c
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: respaldosillaabajo
-    100002: respaldosillaarriba
-    100004: silla
-    100006: //RootNode
-    400000: respaldosillaabajo
-    400002: respaldosillaarriba
-    400004: silla
-    400006: //RootNode
-    2100000: celeste
-    2100002: blanco
-    2300000: respaldosillaabajo
-    2300002: respaldosillaarriba
-    2300004: silla
-    3300000: respaldosillaabajo
-    3300002: respaldosillaarriba
-    3300004: silla
-    4300000: silla
-    4300002: respaldosillaarriba
-    4300004: respaldosillaabajo
+    100000: //RootNode
+    400000: //RootNode
+    2100000: azul
+    2100002: Material.003
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Cube.008
   externalObjects: {}
   materials:
     importMaterials: 1
