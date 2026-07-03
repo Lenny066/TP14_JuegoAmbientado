@@ -72,7 +72,32 @@ ModelImporter:
     4300018: barrabar.001
     4300020: Tcho
     4300022: ventana1.001
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso
+    second: {fileID: 2100000, guid: b44cec43d3b146143b12fafb75a9e484, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Techo
+    second: {fileID: 2100000, guid: c89037ba8c9b34842a0cff55704ee1b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paredblanca
+    second: {fileID: 2100000, guid: 56b35d65c2eb22a45879f16465468b7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paredes
+    second: {fileID: 2100000, guid: f5a3addf9b96220489bcf10649080b27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ventanacristal
+    second: {fileID: 2100000, guid: 318e6b6e21fb61d4e965dbbbf32cbe8b, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
